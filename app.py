@@ -21,8 +21,8 @@ Bachelor of Information Technology, UMK
 """)
 
 st.header("Work Experience")
-st.write("Project Coordinator — Hindu Youth Transformation Program HYTP 
-March 2025 – Present")
+st.write("Project Coordinator in Hindu Youth Transformation Program HYTP 
+March 2025")
 st.write("""
 - Coordinated and managed program activities under the HYTP initiative.
 - Worked closely with youth participants and organizing committees to ensure smooth execution of events.
@@ -30,8 +30,8 @@ st.write("""
 - Developed leadership and communication skills through active coordination and teamwork.
 """)
 
-st.write("Member — UMHV NGO United Malaysian Hindu Voice
-2023 – Present")
+st.write("Member in UMHV NGO United Malaysian Hindu Voice
+2023 to Present")
 st.write("""
 - Participated in social and cultural activities promoting youth leadership and community service.
 - Assisted in outreach programs aimed at student engagement and volunteer empowerment.
