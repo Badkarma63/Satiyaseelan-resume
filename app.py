@@ -53,6 +53,6 @@ st.write("""
 """)
 
 st.header("Projects")
-st.write("Enhancing Malaysian Stock Market Prediction Using a Transformer Model with Sentiment Analysis from Financial News and Social Media.
+st.write("Enhancing Malaysian Stock Market Prediction Using a Transformer Model with Sentiment Analysis from Financial News and Social Media")
 
-This project predicts the Malaysian stock market by combining past stock data with news and social media sentiments. It uses a Transformer model to understand both numbers and emotions that move the market. This helps make smarter and more accurate stock predictions.")
+st.write("This project predicts the Malaysian stock market by combining past stock data with news and social media sentiments. It uses a Transformer model to understand both numbers and emotions that move the market. This helps make smarter and more accurate stock predictions.")
